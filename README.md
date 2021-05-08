@@ -1,5 +1,5 @@
 # Online-Antisemitism-Detection-Using-MultimodalDeep-Learning
-Repository for our paper “Subverting the Jewtocracy”: Online Antisemitism Detection Using MultimodalDeep Learning
+Repository for our paper **“Subverting the Jewtocracy”: Online Antisemitism Detection Using MultimodalDeep Learning** accepted at 13th ACM Web Science Conference 2021 (WebSci 21).
 
 ## Dataset Information
 
